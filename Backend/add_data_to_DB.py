@@ -1,3 +1,5 @@
+# this below code is responsible to insert data in DB(SQLite)
+
 from app import db, Student, app
 
 # Add Sample Data
@@ -36,4 +38,4 @@ with app.app_context():
 
     db.session.commit()
 
-print("Sample data added!")
+print("Sample data added by Mohit in students.db file!")
