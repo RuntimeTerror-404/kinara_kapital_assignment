@@ -37,4 +37,8 @@ Please make sure that the following tools are installed on your local machine:
 - Get students with filtering:
 - http://127.0.0.1:5000/students?page=1&page_size=10&name=John&total_marks=90
 
+This project displays student data with pagination and filtering.
 
+## Screenshot
+
+![Student Grid Screenshot](assignment.png)
